@@ -1,3 +1,8 @@
+remote_them: type-theme
 name: widioremo
 markdown: kramdown
-remote_them: type-theme
+
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://widioremo.github.io"
+
